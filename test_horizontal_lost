@@ -1,0 +1,16 @@
+from tictactoe import solved_horizontal
+
+def test_horizontal_lost():
+    values = [[
+            ['x', 'o', 'x'],
+    ['o', 'x', 'o'],
+    ['x', 'o', 'x']
+    ],
+    [
+    ['x', 'o', 'x'],
+    ['o', 'x', 'o'],
+    ['x', 'o', 'x']]
+    ]
+    for case in values:
+        print(case)
+        assert solved_horizontal(case) == "You lost!"
