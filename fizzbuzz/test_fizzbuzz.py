@@ -12,13 +12,6 @@ def test_fizzbuzz_returns_fizz():
     assert fizzbuzzwhiz(3) == "Fizz"
     assert fizzbuzzwhiz(6) == "Fizz"
     assert fizzbuzzwhiz(12342) == "Fizz"
-
-#faster way
-#def test_fizzbuzz_returns_fizz():
-    #values = [3,6,12342]
-    #for case in values:
-    #   assert fizzbuzz(case) == "Fizz"
-    
     
 def test_fizzbuzz_returns_buzz():
     values = [10,100, 1000,]
@@ -31,8 +24,7 @@ def test_fizzbuzz_returns_fizzbuzz():
     
     for case in values:
         assert fizzbuzzwhiz(case) == "FizzBuzz"
-# give priority to  elif num % 3 == 0 and num % 5 == 0:
-        #return to "FizzBuzz" in fizzbuzz.py file to return okay.
+
 
 def test_fizzbuzz_returns_whiz():
     values = [2,7,11,17,23,29,31]

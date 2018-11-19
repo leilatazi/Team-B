@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+I# -*- coding: utf-8 -*-
 #5. Fizzbuzzwhiz: Modify our Fizzbuzz implementation to add a new
 #case Whiz. the fizzbuzzwhiz function should return Whiz when the
 #given number is prime.
