@@ -1,9 +1,0 @@
-[
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_invalid_input",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_rock_wins",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_scissors_wins",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_tie",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_lizard_spock_invalid_input",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_lizard_wins",
-  "test_rock_paper_scissors.py::test_rock_paper_scissors_spock_wins"
-]
