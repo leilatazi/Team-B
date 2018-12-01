@@ -1,0 +1,10 @@
+[
+  "test_tictactoe.py::test_horizontal_lost",
+  "test_tictactoe.py::test_horizontal_won",
+  "test_tictactoe.py::test_vertical_lost",
+  "test_tictactoe.py::test_vertical_won",
+  "test_tictactoe.py::test_diagonal_lost",
+  "test_tictactoe.py::test_diagonal_won",
+  "test_tictactoe.py::test_solved_tictactoe_lost",
+  "test_tictactoe.py::test_solved_tictactoe_won"
+]
