@@ -1,0 +1,6 @@
+[
+  "test_fizzbuzz.py::test_fizzbuzz_returns_fizz",
+  "test_fizzbuzz.py::test_fizzbuzz_returns_buzz",
+  "test_fizzbuzz.py::test_fizzbuzz_returns_fizzbuzz",
+  "test_fizzbuzz.py::test_fizzbuzz_returns_whiz"
+]
