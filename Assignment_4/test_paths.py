@@ -40,7 +40,7 @@ def test_find_all_paths_no_paths():
     assert find_all_paths(graph,"a","f") == []
     
 def test_find_path_end_not_in_nodes():
-    assert find_all_paths(graph, "b", "h") == None
+    assert find_all_paths(graph, "b", "h") == []
     
 def test_find_path_weighted_from_a_to_e():
     assert find_path_weighted(graph_weighted, "a", "e") == [{'node': 'a', 'weight': 0},
